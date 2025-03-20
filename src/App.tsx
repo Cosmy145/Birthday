@@ -12,7 +12,19 @@ const DemoWebsite: React.FC = () => {
     
     It hurted like hell when i lost you for the first time....It shattered me. Then you left me again(I don't wanna talk about it anymore). But i'm happy that you came back pookie. I missed you. You make my day when you call me.. when you let me see you on video call or when you send me your snaps...I just wish i could get that voice more early after waking...but fir tumhari bhua har waqt tumhare sath hoti hai...still washroom ka bahana maarke mujhe tumhari awaaz suna diya karo na honeybee.
     
+    Even though you just live an hour away from my home... it feels like thousands of miles🥺. I wish i could meet you soon. Pata hai..i'm still so fucking scared ki like is she a lier..what kinda girl she is... after today i'm really comfy with you... the way you mention the gender after telling about your friend...but still my past experience has been really really bad to fir..me just trying to make myself believe that she ain't like that anymore. I guess i'll be super comfy only after meeting you or a few million hours of video calls(which i really want).
+
+    Baba..i wish you would tell me things..the things that happen in your day. I know we just met a few days ago, and we are still getting comfy with each other, but i wanna hear about your day.. jab tum college jao tab kya kiya...kya kya chize hui.. the things you felt all day..just everything.
+
+    I know you have a lil idea of what you mean to me and you said to me ki give some time maybe i'll mean the same to you... i hope our wishes come true...i hope this time you never leave..
+
     You are so cute...i still think why the hell is a girl like that talking to a guy like me..she must be having so many guys better than me dying to talk to her...to be with her.. and she's still with me..hehe🤭.
+
+    Okie..so now i'll just host this site coz i just saw the time and it's super late..i forgot to have my dinner😅....pata hi ni chala ye 5, 6 ghante kese nikal gye..now me hungry af..got 2 exams tomorrow and me tired as fuck...i wish i get to video call you tomorrow on your birthday and um...maybe get to call you for hours at night too if your parents allow for one day...hehe.
+
+    Acha um.. btw um...ahh..choddho..baaki baate milne par coffee pe karenge honeybee.....♥️
+
+    You means a lottttttttt to me pookie. I hope one day i'll be able to show you how much i care for you.
     
     I hope you have the most amazing birthday, Angel. You deserve all the happiness in the world.
 
@@ -21,7 +33,8 @@ const DemoWebsite: React.FC = () => {
     const [oneDayDreams] = useState<string[]>([
         "I wanna grab coffee and talk for hours. I just wanna look at you for hours...listening to you talking",
         "I wanna hang out with you in parks, go to different places..monuments.. click so many pics with you make memories.",
-        "I wanna go out for shopping with you(not only because your fashion sense is so good,hehe), and wanna wear the clothes you like."
+        "I wanna go out for shopping with you(not only because your fashion sense is so good,hehe), and wanna wear the clothes you like.",
+        "I wanna drink with you... and then just sit with you and talk to you for hours, listening to your heart... atleast you will tell me then what's going in that heart of yours."
     ]);
 
     return (
@@ -59,7 +72,7 @@ const DemoWebsite: React.FC = () => {
 
             {/* Footer */}
             <footer className="text-center font-semibold py-6 text-purple-800">
-                Made by Shivansh for You
+                made by Shivansh for "the angel he fell for"... hoping that someday she falls for him too...... and not leave him again😊
                 <div
                     className="mt-2 text-pink-500"
                 >

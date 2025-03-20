@@ -26,7 +26,7 @@ const DemoWebsite: React.FC = () => {
 
     You means a lottttttttt to me pookie. I hope one day i'll be able to show you how much i care for you.
     
-    I hope you have the most amazing birthday, Angel. You deserve all the happiness in the world.
+    I hope you have the most amazing birthday, Angel✨. You deserve all the happiness in the world.
 
   `);
 
@@ -49,7 +49,7 @@ const DemoWebsite: React.FC = () => {
                         className="rounded-xl h-100 w-100 mx-auto object-cover"
                     />
                 </div>
-                <h1 className="text-4xl font-bold text-purple-700 mt-4">Happy Birthday, Angel!</h1>
+                <h1 className="text-4xl font-bold text-purple-700 mt-4">Happy Birthday, Angel!🥳🎂♥️</h1>
                 <p className="text-purple-600">I made a little something for you...</p>
             </header>
 

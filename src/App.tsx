@@ -20,7 +20,7 @@ const DemoWebsite: React.FC = () => {
 
     You are so cute...i still think why the hell is a girl like that talking to a guy like me..she must be having so many guys better than me dying to talk to her...to be with her.. and she's still with me..hehe🤭.
 
-    Okie..so now i'll just host this site coz i just saw the time and it's super late..i forgot to have my dinner😅....pata hi ni chala ye 5, 6 ghante kese nikal gye..now me hungry af..got 2 exams tomorrow and me tired as fuck...i wish i get to video call you tomorrow on your birthday and um...maybe get to call you for hours at night too if your parents allow for one day...hehe.
+    Okie..so now i'll just host this site coz i just saw the time and it's super late..i forgot to have my dinner😅...aur dhoodh bhi kharab ho gya...now gotta figure out something to eat..now me hungry af..got 2 exams tomorrow and me tired as fuck...i wish i get to video call you tomorrow on your birthday and um...maybe get to call you for hours at night too if your parents allow for one day...hehe.
 
     Acha um.. btw um...ahh..choddho..baaki baate milne par coffee pe karenge honeybee.....♥️
 

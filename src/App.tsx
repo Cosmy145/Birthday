@@ -4,7 +4,7 @@ import birthdayImage from './assets/BirthdayImage.jpeg'; // Replace with the act
 
 const DemoWebsite: React.FC = () => {
     const [message] = useState<string>(`
-    Happy Birthday, Angel! I wanted to do something a little different this year to show you how much you mean to me. Even though we've only met online, you've become such an important part of my life.
+    Happy Birthday, Angel! I wanted to do something a little different to show you how much you mean to me. Even though we've only met online, you've become such an important part of my life.
 
     You are one of the cutest person i have ever met. I can keep looking at you for hours, listen to your voice... those lips, hair, hands... The way you move your hair behind your ears..uffff.... and the way you bite your lower lip..gosh the urge to do that for you😩>>
     
@@ -37,7 +37,7 @@ const DemoWebsite: React.FC = () => {
                     />
                 </div>
                 <h1 className="text-4xl font-bold text-purple-700 mt-4">Happy Birthday, Angel!</h1>
-                <p className="text-purple-600">A little something for you...</p>
+                <p className="text-purple-600">I made a little something for you...</p>
             </header>
 
             {/* Main Message Section */}
